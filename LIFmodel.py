@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun Jan 20 14:14:50 2019 by Faramarz Faghihi
 
-@author: Novin Pendar
+@author: Faramarz Faghihi
 """
 
 from numpy import *
